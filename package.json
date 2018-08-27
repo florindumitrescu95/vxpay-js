@@ -37,8 +37,7 @@
     "copy": "node copy-dist.js",
     "push": "yarn build && git push",
     "lint": "eslint --ext .js src",
-    "prepublish": "yarn build",
-    "postinstall": "webpack"
+    "prepublish": "yarn build"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
