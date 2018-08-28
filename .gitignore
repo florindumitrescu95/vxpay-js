@@ -3,4 +3,4 @@
 /build/*
 /coverage/
 .nyc_output
-/docs/*
+/docs/coverage/*
