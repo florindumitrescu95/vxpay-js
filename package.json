@@ -1,11 +1,11 @@
 {
-  "name": "vxpay-that-will-be-deleted",
-  "version": "2.0.6",
+  "name": "vxpay-js",
+  "version": "2.0.3",
   "description": "Javascript library to initialize and handle VXPay iframe",
   "main": "build/vxpay.js",
   "author": "Igor Timoshenkov",
   "license": "LicenseRef-LICENSE",
-  "repository": "https://github.com/florindumitrescu95/vxpay-js",
+  "repository": "https://github.com/VISIT-X/vxpay-js",
   "homepage": "https://visit-x.github.io/vxpay-js",
   "devDependencies": {
     "babel-core": "^6.26.0",
